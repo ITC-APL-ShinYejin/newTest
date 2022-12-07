@@ -12,7 +12,8 @@
       "data1ComsgyTel": "作業店顧客電話番号"
     },
     "selectedGyoshuList": 
-    {
+    [
+      {
       "gyoshuKbn": "000",
       "shohinCod": "00",
       "comnaiyoKnj": "内容―漢字(業種名称)",
@@ -20,9 +21,11 @@
       "sekkjnymdMot": "請求基準日（元払）",
       "sekkjnymdCyk": "請求基準日（着払）",
       "sekkjnymdOth": "請求基準日（元着以外）"
-    },
+      }
+    ],
     "userDataList": 
-    {
+    [
+      {
       "comsosk6Cod": "組織コード6",
       "saidaiTekiyostrYmdFlg": "1",
       "tekiyostrYmd": "2022/12/07",
@@ -30,7 +33,8 @@
       "version": "バージョン",
       "comshimeiseiKnj": "社員名称（姓）－漢字",
       "comshimeimeiKnj": "社員名称（名）－漢字"
-    },
+      }
+    ],
     "gyoshuList": 
     [
       {
