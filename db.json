@@ -110,14 +110,14 @@
       "comshimeimeiKnj": "社員名称（名）－漢字"
     },
     "gyoshuList": 
-    {
-      [
+    [
+      {
         "gyoshuKbn": "000",
         "gyoshuKnj": "業務名称"
-      ],
-      [
+      },
+      {
         "gyoshuKbn": "001",
         "gyoshuKnj": "業務名称"
-      ]
-    }
+      }
+    ]
 }
