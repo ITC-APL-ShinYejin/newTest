@@ -1,0 +1,84 @@
+{
+  "sagyotenKokyakuDto": 
+    {
+      "data1ComsgyrnmKnj": "作業店漢字略称",
+      "data1ComkennmKnj": "都道府県名称―漢字",
+      "data1ComshikunmKnj": "市区町村名称―漢字",
+      "data1ComhojonmKnj": "補助住所名称―漢字",
+      "data1ComchomenmKnj": "丁目名称―漢字",
+      "data1ComsgyadrbanNum": "作業店顧客住所（番）",
+      "data1ComsgyadrgoNum": "作業店顧客住所（号）",
+      "data1ComsgybldgnmKnj": "作業店顧客住所（ビル名－漢字）",
+      "data1ComsgyTel": "作業店顧客電話番号"
+    },
+  "kokyakuMstDto": 
+    {
+      data2Comseknm2Knj
+      data2ComkankeiKbn
+      data2ComkennmKnj
+      data2ComshikunmKnj
+      data2ComhojonmKnj
+      data2ComchomenmKnj
+      data2ComsgyadrbanNum
+      data2ComsgyadrgoNum
+      data2ComsgybldgnmKnj
+      data2ComsekbushoKnj
+      data2ComsektantoKnj
+      data2ComsekMal
+      data2Comshimebi1Ymd
+      data2Comshimebi2Ymd
+      data2Comshimebi3Ymd
+      data2Comshimebi4Ymd
+      data2Comshimebi5Ymd
+      data2Comshimebi6Ymd
+      data2Comshimebi7Ymd
+      data2Comshimebi8Ymd
+      data2Comshimebi9Ymd
+      data2Comshimebi10Ymd
+      data2Comnyujoken1Kbn
+      data2Comnyujoken2Kbn
+      data2Comnyujoken3Kbn
+      data2Comnyujoken4Kbn
+      data2Comnyujoken5Kbn
+      data2Comnyujoken6Kbn
+      data2Comnyujoken7Kbn
+      data2Comnyujoken8Kbn
+      data2Comnyujoken9Kbn
+      data2Comnyujoken10Kbn
+      data2ComnyuyobiKbn
+      data2ComteishutsuYmd
+      data2Sekhak1Knj
+      data2Haknaiyo1Knj
+      data2TeihoKnj
+      data2TeibaiKnj
+      data2Nyuho1Knj
+      data2ComnaiyoKnj
+      data2CombnknmKnj
+      data2CombnktnpnmKnj
+      data2ComnyukozaNum
+      data2ComsekkeishikiKbn
+      data2Micmemo
+      
+      "data1ComsgyrnmKnj": "作業店漢字略称",
+      "data1ComkennmKnj": "都道府県名称―漢字",
+      "data1ComshikunmKnj": "市区町村名称―漢字",
+      "data1ComhojonmKnj": "補助住所名称―漢字",
+      "data1ComchomenmKnj": "丁目名称―漢字",
+      "data1ComsgyadrbanNum": "作業店顧客住所（番）",
+      "data1ComsgyadrgoNum": "作業店顧客住所（号）",
+      "data1ComsgybldgnmKnj": "作業店顧客住所（ビル名－漢字）",
+      "data1ComsgyTel": "作業店顧客電話番号"
+    },
+    "sagyotenKokyakuDto": 
+    {
+      "data1ComsgyrnmKnj": "作業店漢字略称",
+      "data1ComkennmKnj": "都道府県名称―漢字",
+      "data1ComshikunmKnj": "市区町村名称―漢字",
+      "data1ComhojonmKnj": "補助住所名称―漢字",
+      "data1ComchomenmKnj": "丁目名称―漢字",
+      "data1ComsgyadrbanNum": "作業店顧客住所（番）",
+      "data1ComsgyadrgoNum": "作業店顧客住所（号）",
+      "data1ComsgybldgnmKnj": "作業店顧客住所（ビル名－漢字）",
+      "data1ComsgyTel": "作業店顧客電話番号"
+    }
+}
