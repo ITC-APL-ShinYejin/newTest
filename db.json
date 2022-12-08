@@ -16,8 +16,17 @@
       {
       "gyoshuKbn": "000",
       "shohinCod": "00",
-      "comnaiyoKnj": "内容―漢字(業種名称)",
-      "comshohinnm2Knj": "商品略称－漢字",
+      "comnaiyoKnj": "内容―漢字(業種名称)1",
+      "comshohinnm2Knj": "商品略称－漢字"1,
+      "sekkjnymdMot": "請求基準日（元払）",
+      "sekkjnymdCyk": "請求基準日（着払）",
+      "sekkjnymdOth": "請求基準日（元着以外）"
+      },
+      {
+      "gyoshuKbn": "001",
+      "shohinCod": "00",
+      "comnaiyoKnj": "内容―漢字(業種名称)2",
+      "comshohinnm2Knj": "商品略称－漢字"2,
       "sekkjnymdMot": "請求基準日（元払）",
       "sekkjnymdCyk": "請求基準日（着払）",
       "sekkjnymdOth": "請求基準日（元着以外）"
@@ -33,17 +42,26 @@
       "version": "バージョン",
       "comshimeiseiKnj": "社員名称（姓）－漢字",
       "comshimeimeiKnj": "社員名称（名）－漢字"
+      },
+      {
+      "comsosk6Cod": "組織コード6",
+      "saidaiTekiyostrYmdFlg": "0",
+      "tekiyostrYmd": "2022/12/06",
+      "tekiyoendYmd": "2022/12/07",
+      "version": "バージョン",
+      "comshimeiseiKnj": "社員名称（姓）－漢字",
+      "comshimeimeiKnj": "社員名称（名）－漢字"
       }
     ],
     "gyoshuList": 
     [
       {
         "gyoshuKbn": "000",
-        "gyoshuKnj": "業務名称"
+        "gyoshuKnj": "業務名称1"
       },
       {
         "gyoshuKbn": "001",
-        "gyoshuKnj": "業務名称"
+        "gyoshuKnj": "業務名称2"
       }
     ]
 }
