@@ -14,18 +14,18 @@
     "selectedGyoshuList": 
     [
       {
-      "gyoshuKbn": "000",
-      "shohinCod": "00",
-      "comnaiyoKnj": "内容―漢字(業種名称)1",
-      "comshohinnm2Knj": "商品略称－漢字1",
+      "gyoshuKbn": "00",
+      "shohinCod": "000",
+      "comnaiyoKnj": "内容―漢字(業種名称)0",
+      "comshohinnm2Knj": "商品略称－漢字0",
       "sekkjnymdMot": "請求基準日（元払）",
       "sekkjnymdCyk": "請求基準日（着払）",
       "sekkjnymdOth": "請求基準日（元着以外）"
       },
       {
-      "gyoshuKbn": "001",
-      "shohinCod": "00",
-      "comnaiyoKnj": "内容―漢字(業種名称)2",
+      "gyoshuKbn": "01",
+      "shohinCod": "002",
+      "comnaiyoKnj": "内容―漢字(業種名称)1",
       "comshohinnm2Knj": "商品略称－漢字2",
       "sekkjnymdMot": "請求基準日（元払）",
       "sekkjnymdCyk": "請求基準日（着払）",
@@ -56,12 +56,12 @@
     "gyoshuList": 
     [
       {
-        "gyoshuKbn": "000",
-        "gyoshuKnj": "業務名称1"
+        "gyoshuKbn": "00",
+        "gyoshuKnj": "業務名称0"
       },
       {
-        "gyoshuKbn": "001",
-        "gyoshuKnj": "業務名称2"
+        "gyoshuKbn": "01",
+        "gyoshuKnj": "業務名称1"
       }
     ]
 }
