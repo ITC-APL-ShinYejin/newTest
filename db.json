@@ -69,12 +69,12 @@
     {
       "gyoshuList": [
         {
-          "comshohinCod": "002",
-          "comshohinnm2Knj": "商品略称－漢字2"
+          "gyoshuKbn": "00",
+          "gyoshuKnj": "業務名称0"
         },
         {
-          "comshohinCod": "003",
-          "comshohinnm2Knj": "商品略称－漢字3"
+          "gyoshuKbn": "01",
+          "gyoshuKnj": "業務名称1"
         }
       ]
     }
