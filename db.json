@@ -18,18 +18,18 @@
       "shohinCod": "000",
       "comnaiyoKnj": "業務名称0",
       "comshohinnm2Knj": "商品略称－漢字0",
-      "sekkjnymdMot": "請求基準日（元払）",
-      "sekkjnymdCyk": "請求基準日（着払）",
-      "sekkjnymdOth": "請求基準日（元着以外）"
+      "sekkjnymdMot": "発送日1",
+      "sekkjnymdCyk": "集荷日1",
+      "sekkjnymdOth": "着荷日1"
       },
       {
       "gyoshuKbn": "01",
       "shohinCod": "002",
       "comnaiyoKnj": "業務名称1",
       "comshohinnm2Knj": "商品略称－漢字2",
-      "sekkjnymdMot": "請求基準日（元払）",
-      "sekkjnymdCyk": "請求基準日（着払）",
-      "sekkjnymdOth": "請求基準日（元着以外）"
+      "sekkjnymdMot": "発送日1",
+      "sekkjnymdCyk": "集荷日1",
+      "sekkjnymdOth": "着荷日1"
       }
     ],
     "userDataList": 
