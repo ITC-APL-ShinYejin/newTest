@@ -65,18 +65,6 @@
         "gyoshuKnj": "業務名称1"
       }
     ]
-    },
-    {
-      "gyoshuList": [
-        {
-          "gyoshuKbn": "00",
-          "gyoshuKnj": "業務名称0"
-        },
-        {
-          "gyoshuKbn": "01",
-          "gyoshuKnj": "業務名称1"
-        }
-      ]
     }
   ]
 }
