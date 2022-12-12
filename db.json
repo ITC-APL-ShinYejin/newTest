@@ -53,9 +53,7 @@
       "comshimeimeiKnj": "社員名称（名）－漢字"
       }
     ],
-  "gyoshuSelectList": [
-    {
-      "gyoshuList": [
+    "gyoshuList": [
       {
         "gyoshuKbn": "00",
         "gyoshuKnj": "業務名称0"
@@ -65,6 +63,4 @@
         "gyoshuKnj": "業務名称1"
       }
     ]
-    }
-  ]
 }
