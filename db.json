@@ -14,8 +14,8 @@
     "selectedGyoshuList": 
     [
       {
-      "gyoshuKbn": "00",
-      "shohinCod": "000",
+      "gyoshuKbn": "01",
+      "shohinCod": "001",
       "comnaiyoKnj": "業務名称0",
       "comshohinnm2Knj": "商品略称－漢字0",
       "sekkjnymdMot": "発送日1",
@@ -40,11 +40,11 @@
       {
       "gyoshuList": [
         {
-          "gyoshuKbn": "00",
+          "gyoshuKbn": "01",
           "gyoshuKnj": "業務名称0"
         },
         {
-          "gyoshuKbn": "01",
+          "gyoshuKbn": "02",
           "gyoshuKnj": "業務名称1"
         }
       ]
