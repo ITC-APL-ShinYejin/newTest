@@ -21,15 +21,6 @@
       "sekkjnymdMot": "発送日1",
       "sekkjnymdCyk": "集荷日1",
       "sekkjnymdOth": "着荷日1"
-      },
-      {
-      "gyoshuKbn": "01",
-      "shohinCod": "002",
-      "comnaiyoKnj": "業務名称1",
-      "comshohinnm2Knj": "商品略称－漢字2",
-      "sekkjnymdMot": "発送日1",
-      "sekkjnymdCyk": "集荷日1",
-      "sekkjnymdOth": "着荷日1"
       }
     ],
     "userDataList": 
@@ -38,15 +29,6 @@
       "comsosk6Cod": "組織コード6",
       "saidaiTekiyostrYmdFlg": "1",
       "tekiyostrYmd": "2022/12/07",
-      "tekiyoendYmd": "2022/12/07",
-      "version": "バージョン",
-      "comshimeiseiKnj": "社員名称（姓）－漢字",
-      "comshimeimeiKnj": "社員名称（名）－漢字"
-      },
-      {
-      "comsosk6Cod": "組織コード6",
-      "saidaiTekiyostrYmdFlg": "0",
-      "tekiyostrYmd": "2022/12/06",
       "tekiyoendYmd": "2022/12/07",
       "version": "バージョン",
       "comshimeiseiKnj": "社員名称（姓）－漢字",
